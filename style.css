@@ -23,3 +23,16 @@ section {
 .git img {
     width: 75%;
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.topbanner {
+    background-image: url(img.PNG);
+}
