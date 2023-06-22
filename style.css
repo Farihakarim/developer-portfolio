@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-
+    margin: 0;
 }
 
 h1 {
@@ -12,7 +12,8 @@ h1 {
 }
 
 section {
-    display: flex
+    display: flex;
+    margin-bottom: 100px;
 }
 
 .git {
@@ -34,5 +35,10 @@ section {
 }
 
 .topbanner {
-    background-image: url(img.PNG);
+    background-image: url(b.PNG);
+}
+
+.SIDE {
+    background-image: url(sound-waves-line-illustration-design-free-vector.jpg
+);
 }
