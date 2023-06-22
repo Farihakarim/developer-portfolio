@@ -36,9 +36,10 @@ section {
 
 .topbanner {
     background-image: url(b.PNG);
+    background-repeat: no-repeat;
 }
 
 .SIDE {
-    background-image: url(sound-waves-line-illustration-design-free-vector.jpg
-);
+    background-image: url(sound-waves-line-illustration-design-free-vector.jpg);
+    background-repeat: no-repeat;
 }
