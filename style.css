@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flex-play {
     display: flex;
     margin-bottom: 100px;
 }
@@ -37,9 +37,12 @@ section {
 .topbanner {
     background-image: url(b.PNG);
     background-repeat: no-repeat;
+
 }
 
-.side {
+.bing {
     background-image: url(b2.PNG);
-    background-repeat: no-repeat;
+    background-position: right;
+
+
 }
