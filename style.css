@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .color {
     color: orange;
 }
@@ -35,14 +39,37 @@ h1 {
 }
 
 .topbanner {
-    background-image: url(b.PNG);
+    background-image: url(bl.PNG);
     background-repeat: no-repeat;
 
 }
 
 .bing {
-    background-image: url(b2.PNG);
+    background-image: url(bll.PNG);
     background-position: right;
+    background-repeat: no-repeat;
 
 
+}
+
+.Exprience {
+    background-image: url(blll.PNG);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.added {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+
+#baby-web {
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-image: linear-gradient(blue, cyan);
 }
